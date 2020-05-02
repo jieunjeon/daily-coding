@@ -26,6 +26,8 @@ class Solution:
         lo = 0
         hi = len(nums) - 1
        
+        if nums == []:
+            return -1
         while lo < hi:
             mid = (lo + hi) // 2
             if nums[mid] == target:
@@ -41,7 +43,7 @@ class Solution:
                 else:
                     hi = mid - 1
         
-        if nums[lo] == target:
+        if nums[hi] == target:
             return lo
         else:
             return -1
