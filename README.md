@@ -2,7 +2,7 @@
 daily coding problem
 
 ## [LeetCode] SOLVED
-1 15 26 33 49 53 64 118 122 124 125 133 136 202 238 278 283 339 341 383 387 476 525 543 652 678 680 704 771 796 991
+1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 476 525 543 652 678 680 704 771 796 991
 
 [1. Two Sum](Leetcode/1-Two_Sum.py)  
 [15. 3Sum](Leetcode/15-3Sum.py)  
@@ -17,6 +17,7 @@ daily coding problem
 [Valid Palindrome](Leetcode/125-Valid_Palindrome.py)  
 [133. Clone Graph](Leetcode/133-Clone_Graph.py)  
 [136. Single Number](Leetcode/136-Single_Number.py)  
+[169. Majority Element](Leetcode/169-Majority_Element.py)  
 [202. Happy number](Leetcode/202-Happy_Number.py)  
 [238. Product of Array Except Self](Leetcode/238-Product_of_Array_Except_Self.py)  
 [278. First Bad Version](Leetcode/278-First_Bad_Version.js)  
