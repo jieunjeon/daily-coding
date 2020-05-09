@@ -38,4 +38,21 @@ class Solution(object):
         for i in range(0,nums.count(0)):
             nums.remove(0)
             nums.append(0)
-                    
+
+
+
+"""
+javascript
+
+const moveZeroes = nums => {
+    if (nums.length) {
+        for (let i = 0, j = 0; i < nums.length; i++) {
+            if (nums[i] !== 0) {
+                [nums[i], nums[j]] = [nums[j], nums[i]];
+                j++;
+            }
+        }
+    }
+    return nums;
+};
+"""
