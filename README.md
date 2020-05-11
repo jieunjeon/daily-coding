@@ -2,7 +2,7 @@
 daily coding problem
 
 ## [LeetCode] SOLVED
-1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 476 525 543 652 678 680 704 771 796 991
+1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 476 525 543 652 678 680 704 771 796 991 993
 
 [1. Two Sum](Leetcode/1-Two_Sum.py)  
 [15. 3Sum](Leetcode/15-3Sum.py)  
@@ -36,3 +36,4 @@ daily coding problem
 [771. Jewels and Stones](Leetcode/771-Jewels_and_Stones.py)  
 [796. Rotate String](Leetcode/796-Rotate_String.py)  
 [991. Broken Calculator](Leetcode/991-Broken_Calculator.py)  
+[993. Cousins in Binary Tree](Leetcode/993-Cousins_in_Binary_Tree.py)  
