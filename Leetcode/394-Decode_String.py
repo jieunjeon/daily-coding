@@ -38,11 +38,11 @@ class Solution:
                 innerstr = ""
                 while bracket > 0:
                     if s[i] == '[':
-                    bracket += 1
+                        bracket += 1
                     if s[i] == ']':
-                    bracket -= 1
+                        bracket -= 1
                     innerstr += s[i]
                     i += 1
-                res = res + num * decodeString(innerstr[:-1])
+                res = res + num * self.decodeString(innerstr[:-1])
 
             return res
