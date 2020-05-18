@@ -2,7 +2,7 @@
 daily coding problem
 
 ## [LeetCode] SOLVED
-1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 476 525 543 652 678 680 704 771 796 991 993
+1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 394 476 525 543 652 678 680 704 771 796 991 993
 
 [1. Two Sum](Leetcode/1-Two_Sum.py)  
 [15. 3Sum](Leetcode/15-3Sum.py)  
@@ -26,6 +26,7 @@ daily coding problem
 [341. Flatten Nested List Iterator](Leetcode/341-Flatten_Nested_List_Iterator.py)  
 [383. Ransom Note](Leetcode/383-Ransom_Note.py)  
 [387. First Unique Character in a String](Leetcode/387-First_Unique_Character_in_a_String.py)  
+[394. Decode String](Leetcode/394-Decode_String.py)  
 [476. Number Complement](Leetcode/476-Number_Complement.py)  
 [525. Contiguous Array](Leetcode/525-Contiguous_Array.py)  
 [543. Diameter of Binary Tree](Leetcode/543-Diameter_of_Binary_Tree.py)  
