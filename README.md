@@ -6,9 +6,10 @@
 ## [LeetCode] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
-|  1  |  [Two Sum](Leetcode/1-Two_Sum.py)   |    Easy    | [LeetCode](https://leetcode.com/problems/two-sum/) |  Array, Hash Table |
-|  15  |                              [3Sum](Leetcode/15-3Sum.py)                           |    Medium    |               [LeetCode](https://leetcode.com/problems/3sum/)                |       Array, Two Pointers       |
-|  26  |                              [Remove Duplicates from Sorted Array](26-Remove_Duplicates_from_Sorted_Array.js)                              |    Easy    |               [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                |       Array, Two Pointers       |
+|  1  |  [Two Sum](Leetcode/1-Two_Sum.py) |Easy| [LeetCode](https://leetcode.com/problems/two-sum/) | Array, Hash Table |
+|  15  | [3Sum](Leetcode/15-3Sum.py) |Medium| [LeetCode](https://leetcode.com/problems/3sum/) | Array, Two Pointers   |
+|  26  | [Remove Duplicates from Sorted Array](26-Remove_Duplicates_from_Sorted_Array.js) |Easy | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers |
+|  98  | [Validate Binary Search Tree](98-Validate_Binary_Search_Tree.py) |Medium | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Tree, DFS |
 
 1 15 26 33 49 53 64 118 122 124 125 133 136 169 202 238 278 283 339 341 383 387 394 476 525 543 652 678 680 704 771 796 991 993
 
