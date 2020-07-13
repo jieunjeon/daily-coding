@@ -8,6 +8,7 @@
 | :-: | :---: | :--------: | :----: | :--: | 
 |  1  |  [Two Sum](Leetcode/1-Two_Sum.py) |Easy| [LeetCode](https://leetcode.com/problems/two-sum/) | Array, Hash Table |
 |  15  | [3Sum](Leetcode/15-3Sum.py) |Medium| [LeetCode](https://leetcode.com/problems/3sum/) | Array, Two Pointers   |
+|  20  | [Valid Parenthesis](Leetcode/20-Valid-Parenthesis.py) |Easy| [LeetCode](https://leetcode.com/problems/3sum/) | String, Stack   |
 |  26  | [Remove Duplicates from Sorted Array](26-Remove_Duplicates_from_Sorted_Array.js) |Easy | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers |
 |  98  | [Validate Binary Search Tree](98-Validate_Binary_Search_Tree.py) |Medium | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Tree, DFS |
 
