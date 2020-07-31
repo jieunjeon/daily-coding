@@ -13,6 +13,7 @@
 |  33  | [Binary in Rotated Sorted Array](Leetcode/33-Binary_in_Rotated_Sorted_Array.py) |Medium | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Array, Binary Search |
 |  49  | [Group Anagrams](Leetcode/49-Group_Anagrams.py) |Medium | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Hash Table, String |
 |  53  | [Maximum Subarray](Leetcode/53-Maximum_Subarray.py) |Easy | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Array, Divide and Conquer, Dynamic Programming|
+|  62  | [Unique Paths](Leetcode/62-Unique_Paths.py) |Medium | [LeetCode](https://leetcode.com/problems/unique-paths/) | Array, Dynamic Programming|
 | 64   | [Minimum Path Sum](Leetcode/64-Minimum_Path_Sum.py) |Medium | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Array, Dynamic Programming |
 |  98  | [Validate Binary Search Tree](Leetcode/98-Validate_Binary_Search_Tree.py) |Medium | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Tree, DFS |
 |  118  | [Pascal's Triangle](Leetcode/118-Pascal's_Triangle.py) |Easy | [LeetCode](https://leetcode.com/problems/pascals-triangle/) |Array |
