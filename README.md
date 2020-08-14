@@ -20,6 +20,7 @@
 |  122  | [Best Time to Buy and Sel Stock 2](Leetcode/118-Pascal's_Triangle.py) |Easy | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |Array, Greedy |
 | 124   | [Binary Tree Maximum Path Sum](Leetcode/124-Binary_Tree_Maximum_Path_Sum.py) |Hard | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Tree, DFS|
 |  125  | [Valid Palindrome](Leetcode/125-Valid_Palindrome.py) |Easy | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |Two Pointers, String |
+|  128  | [Longest Consecutive Sequence](128-Longest-Consecutive-Sequence.py) |Hard | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |Array, Union Find |
 |  133  | [Clone Graph](Leetcode/133-Clone_Graph.py)   |Medium | [LeetCode](https://leetcode.com/problems/clone-graph/) | DFS, BFS, Graph|
 | 136   | [Single Number](Leetcode/136-Single_Number.py)   |Easy | [LeetCode](https://leetcode.com/problems/single-number/) |Hash Table, Bit Manipulation |
 |  169  | [Majority Element](Leetcode/169-Majority_Element.py)   |Easy | [LeetCode](https://leetcode.com/problems/majority-element/) |Array, Divide and Conquer, Bit Manipulation |
