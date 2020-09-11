@@ -9,6 +9,7 @@
 |  1  |  [Two Sum](Leetcode/1-Two_Sum.py) |Easy| [LeetCode](https://leetcode.com/problems/two-sum/) | Array, Hash Table |
 |  15  | [3Sum](Leetcode/15-3Sum.py) |Medium| [LeetCode](https://leetcode.com/problems/3sum/) | Array, Two Pointers   |
 |  20  | [Valid Parenthesis](Leetcode/20-Valid-Parenthesis.py) |Easy| [LeetCode](https://leetcode.com/problems/3sum/) | String, Stack   |
+|  23  | [Merge k Sorted Lists](Leetcode/23-Merge-k-Sorted-Lists.py) |Hard| [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Linked List, Devide and Conquer, Heap   |
 |  26  | [Remove Duplicates from Sorted Array](Leetcode/26-Remove_Duplicates_from_Sorted_Array.js) |Easy | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array, Two Pointers |
 |  33  | [Binary in Rotated Sorted Array](Leetcode/33-Binary_in_Rotated_Sorted_Array.py) |Medium | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Array, Binary Search |
 |  49  | [Group Anagrams](Leetcode/49-Group_Anagrams.py) |Medium | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Hash Table, String |
