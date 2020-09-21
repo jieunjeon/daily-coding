@@ -36,6 +36,8 @@ Output: []
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+from Queue import PriorityQueue
+
 class Solution(object):
     def mergeKListsBruteForce(self, lists):
         """
@@ -58,18 +60,12 @@ class Solution(object):
 	    return head
 
     def mergeKListsImproved(self, lists):
-	    """
-	    :type lists: List[ListNode]
-	    :rtype: ListNode
-	    """
-	    def check_if_none(list):
-	        for i in range(len(list)):
-	            if (list[i] is not None):
-	                return True
-	        return False
-	    
-	    head = current = ListNode(-1)
-	    while (check_if_none(lists)):
+        """
+        :type lists: List[ListNode]
+        :rtype: ListNode
+        """
+        head = current = ListNode(-1)
+        while (self.check_if_none(lists)):
 	        index = -1
 	        curr_min = float("inf")
 	        for i, nlist in enumerate(lists):
@@ -79,7 +75,16 @@ class Solution(object):
 	        lists[index] = lists[index].next
 	        current.next = ListNode(curr_min)
 	        current = current.next
-	    return head.next
+            
+        return head.next
+    
+    def check_if_none(self, list):
+	    for i in range(len(list)):
+	        if (list[i] is not None):
+	            return True
+	    return False
+
+		#/////
 
     def mergeKListsPriorityQueue(self, lists):
 	    """
@@ -94,13 +99,11 @@ class Solution(object):
 	
 		while not q.empty():
 		    val, i, node = q.get()
-		    print("asdf", val, i)
 		    point.next = ListNode(val)
 		    point = point.next
 		    node = node.next
 		    if node:
 		        q.put((node.val, i, node))
-		        print("node", node)
 
 		return head.next
 

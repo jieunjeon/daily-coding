@@ -24,6 +24,7 @@
 |  128  | [Longest Consecutive Sequence](128-Longest-Consecutive-Sequence.py) |Hard | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) |Array, Union Find |
 |  133  | [Clone Graph](Leetcode/133-Clone_Graph.py)   |Medium | [LeetCode](https://leetcode.com/problems/clone-graph/) | DFS, BFS, Graph|
 | 136   | [Single Number](Leetcode/136-Single_Number.py)   |Easy | [LeetCode](https://leetcode.com/problems/single-number/) |Hash Table, Bit Manipulation |
+| 160   | [Intersection of Two Linked Lists](Leetcode/160-Intersection_of_Two_Linked_Lists.py)   |Easy | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |Linked Lists |
 |  169  | [Majority Element](Leetcode/169-Majority_Element.py)   |Easy | [LeetCode](https://leetcode.com/problems/majority-element/) |Array, Divide and Conquer, Bit Manipulation |
 |  202  | [Happy number](Leetcode/202-Happy_Number.py)  |Easy | [LeetCode](https://leetcode.com/problems/happy-number/) |Hash Table, Math |
 |  206  | [Reverse Linked List](206-Reverse_Linked_list.py) |Easy | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Linked List |
