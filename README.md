@@ -5,7 +5,7 @@
 ## [Programmers] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
-|  42576  |[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
+|  42576  |[완주하지 못한 선수](Programmers/42576_완주하지못한선수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
    
 
 ## [LeetCode] SOLVED
