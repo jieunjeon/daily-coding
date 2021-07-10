@@ -5,6 +5,9 @@ def solution_sort(participant, completion):
     
     """
     Solution 1. First, sort. Then, enumerate and find the last one.
+
+    Time Complexity: O(nlogn) for python built-in sort method + O(n) for loop through the length of the input participant list
+    -> O(nlogn)
     """
     participant.sort()
     completion.sort()
@@ -18,6 +21,8 @@ def solution_sort(participant, completion):
 def solution_collections(participant, completion):
     """
     Solution 2. Use collections.Counter
+
+    Time Complexity: O(n) for collections.Counter
     """
     answer = collections.Counter(participant) - collections.Counter(completion)
     print(answer.keys())
@@ -27,6 +32,8 @@ def solution_collections(participant, completion):
 def solution_zip(participant, completion):
     """
     Solution 3. Use zip()
+
+    Time Complexity: O(nlogn) for built-in sort() method, O(n * m) for combining for loop and zip() method 
     """
     answer = ''
     participant.sort()

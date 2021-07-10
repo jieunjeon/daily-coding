@@ -6,6 +6,7 @@
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
 |  42576  |[완주하지 못한 선수](Programmers/42576_완주하지못한선수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
+|  42840  |[모의고사](Programmers/42840_모의고사.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) | Brute Force |   
    
 
 ## [LeetCode] SOLVED
