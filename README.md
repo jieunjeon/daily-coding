@@ -54,6 +54,9 @@
 |  796  | [Rotate String](Leetcode/796-Rotate_String.py)  |Easy | [LeetCode](https://leetcode.com/problems/rotate-string/) |String |
 |  991  | [Broken Calculator](Leetcode/991-Broken_Calculator.py)   |Medium | [LeetCode](https://leetcode.com/problems/broken-calculator/) |Math, Greedy |
 |  993  | [Cousins in Binary Tree](Leetcode/993-Cousins_in_Binary_Tree.py)   |Easy | [LeetCode](https://leetcode.com/problems/cousins-in-binary-tree/) |Tree, BFS |
-
- 
-
+  
+     
+## [CodeUp] SOLVED
+|  #  | Title | Difficulty | Source | TAGS |
+| :-: | :---: | :--------: | :----: | :--: | 
+|  6074  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6074.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6074&rid=0) | Loop |  
