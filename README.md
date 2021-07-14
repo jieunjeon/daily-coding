@@ -60,7 +60,7 @@
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
 |  6074  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6074.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6074&rid=0) | Loop |  
-|  6081  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6081) | Loop |  
-|  6082  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6082) | Loop, %X |  
-|  6083  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6083) | Loop, f string |  
-|  6084  |[문자 1개 입력받아 알파벳 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6084) | Loop, f string |  
+|  6081  |[16진수 구구단 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6081) | Loop |  
+|  6082  |[3 6 9 게임의 왕이 되자](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6082) | Loop, %X |  
+|  6083  |[빛 섞어 색 만들기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6083) | Loop, f string |  
+|  6084  |[소리 파일 저장용량 계산하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6084) | Loop, f string |  
