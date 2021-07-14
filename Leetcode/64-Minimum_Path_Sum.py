@@ -33,10 +33,10 @@ def minPathSum(self, grid: List[List[int]]) -> int:
     return calPathSum(grid, 0, 0)
 
 
-def minPathSum(self, grid: List[List[int]]) -> int:
+def minPathSumDp(self, grid: List[List[int]]) -> int:
     """
     DP with extra 2d matrix
-    Start by initializing all 0s in the same size of the 2d maatrix. 
+    Start by initializing all 0s in the same size of the 2d matrix. 
     Then from the bottom right, traverse backwards and fill in the matrix with the minimum sum (from bottom / right)
     Note to be aware of the boundary conditions.
 
@@ -62,3 +62,27 @@ def minPathSum(self, grid: List[List[int]]) -> int:
                 dp[row][col] = grid[row][col] + min(pos1, pos2)
 
     return dp[h-1][w-1]
+
+def minPathSumConstantSpace(self, grid: List[List[int]]) -> int:
+    """
+    DP with no extra 2d matrix
+    same as the 2d matrix, but reusing the given 2d grid.
+
+    Time Complexity: O(mn) to traverse the matrix
+    Space Complexity: O(1) to create a copy of the original matrix
+
+    """ 
+    for row in range(h):
+        for col in range(w):
+            if row == 0 and col == 0:
+                grid[row][col] = grid[row][col]
+            else:
+                pos1 = float('inf')
+                pos2 = float('inf')
+                if row != 0:
+                    pos1 = grid[row-1][col]
+                if col != 0:
+                    pos2 = grid[row][col-1]
+                grid[row][col] = grid[row][col] + min(pos1, pos2)
+
+    return grid[h-1][w-1]

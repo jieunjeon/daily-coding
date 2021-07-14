@@ -35,8 +35,24 @@ a b c d e f
 """
 Time Complexity: O(n)
 """
-a = ord(input()) # 숫자로 변환
-b = ord('a')
-while a >= b:
-  print (chr(b))
-  b+=1
+def sol1():
+  a = ord(input()) 
+  b = ord('a')
+  while a >= b:
+    print (chr(b))
+    b+=1
+
+def sol2():
+  char = ord(str(input())) 
+  start = ord('a')
+  for i in range(char-start+1): 
+    print(chr(start + i), end=' ')
+
+def sol3():
+  char = ord(str(input())) 
+  start = ord('a')
+  while (char - start + 1) :
+     print(chr(start), end=' ') 
+     start += 1
+
+  
