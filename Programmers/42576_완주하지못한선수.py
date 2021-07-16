@@ -13,7 +13,7 @@ def solution_sort(participant, completion):
     completion.sort()
     
     for i, v in enumerate(participant):
-        if i >= len(participant)-1:
+        if i >= len(completion)-1:
             return participant[i]
         if v != completion[i]:
             return v
@@ -26,7 +26,7 @@ def solution_collections(participant, completion):
     """
     answer = collections.Counter(participant) - collections.Counter(completion)
     print(answer.keys())
-    return list(answer.keys())[0]
+    return list(answer)[0]
 
 
 def solution_zip(participant, completion):
@@ -35,7 +35,6 @@ def solution_zip(participant, completion):
 
     Time Complexity: O(nlogn) for built-in sort() method, O(n * m) for combining for loop and zip() method 
     """
-    answer = ''
     participant.sort()
     completion.sort()
     for p,c in zip(participant,completion):

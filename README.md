@@ -63,4 +63,5 @@
 |  6081  |[16진수 구구단 출력하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6081) | Loop |  
 |  6082  |[3 6 9 게임의 왕이 되자](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6082) | Loop, %X |  
 |  6083  |[빛 섞어 색 만들기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6083) | Loop, f string |  
-|  6084  |[소리 파일 저장용량 계산하기](CodeUp/6081-6085.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6084) | Loop, f string |  
+|  6084  |[소리 파일 저장용량 계산하기](CodeUp/6081-6084.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6084) | Loop, f string |  
+|  6087  |[3의 배수는 통과](CodeUp/6087.py) |Level 1| [Programmers](https://codeup.kr/problem.php?id=6087) | Loop, % mod |  
