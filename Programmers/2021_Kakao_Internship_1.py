@@ -33,7 +33,8 @@ numbers = {
     'eight': '8',
     'nine': '9',
 }
-def solution(s):
+
+def solution1(s):
     """
     Time Complexity: O(n) where n is the length of the string
     Space Complaxity: O(n) 
@@ -49,4 +50,11 @@ def solution(s):
             if tmp in numbers:
                 answer += numbers[tmp]
                 tmp = ''
+    return int(answer)
+
+
+def solution2(s):
+    answer = s
+    for key, value in numbers.items():
+        answer = answer.replace(key, value)
     return int(answer)
