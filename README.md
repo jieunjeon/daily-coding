@@ -2,17 +2,6 @@
   🔥 Daily Coding 🔥
 </h1>
 
-## [Programmers] SOLVED
-|  #  | Title | Difficulty | Source | TAGS |
-| :-: | :---: | :--------: | :----: | :--: | 
-|  42576  |[완주하지 못한 선수](Programmers/42576_완주하지못한선수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
-|  42840  |[모의고사](Programmers/42840_모의고사.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) | Brute Force |   
-|  42840  |[K번째 수](Programmers/42748_K번째수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) | Brute Force | 
-|  12901  |[2016년](Programmers/12901_2016.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12901) | Brute Force |     
-|  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
-|  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
-
-
 ## [LeetCode] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
@@ -59,7 +48,18 @@
 |  991  | [Broken Calculator](Leetcode/991-Broken_Calculator.py)   |Medium | [LeetCode](https://leetcode.com/problems/broken-calculator/) |Math, Greedy |
 |  993  | [Cousins in Binary Tree](Leetcode/993-Cousins_in_Binary_Tree.py)   |Easy | [LeetCode](https://leetcode.com/problems/cousins-in-binary-tree/) |Tree, BFS |
   
-     
+## [Programmers] SOLVED
+|  #  | Title | Difficulty | Source | TAGS |
+| :-: | :---: | :--------: | :----: | :--: | 
+|  42576  |[완주하지 못한 선수](Programmers/42576_완주하지못한선수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
+|  42840  |[모의고사](Programmers/42840_모의고사.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) | Brute Force |   
+|  42840  |[K번째 수](Programmers/42748_K번째수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) | Brute Force | 
+|  12901  |[2016년](Programmers/12901_2016.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12901) | Brute Force |     
+|  12903  |[가운데 글자 가져오기](Programmers/12903_mean_character.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12903) | Brute Force | 
+|  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
+|  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
+   
+   
 ## [CodeUp] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
 | :-: | :---: | :--------: | :----: | :--: | 
