@@ -7,7 +7,8 @@
 | :-: | :---: | :--------: | :----: | :--: | 
 |  42576  |[완주하지 못한 선수](Programmers/42576_완주하지못한선수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) | Hash |   
 |  42840  |[모의고사](Programmers/42840_모의고사.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) | Brute Force |   
-|  42840  |[K번째 수](Programmers/42748_K번째수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) | Brute Force |   
+|  42840  |[K번째 수](Programmers/42748_K번째수.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) | Brute Force | 
+|  12901  |[2016년](Programmers/12901_2016.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12901) | Brute Force |     
 |  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
 |  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
 
