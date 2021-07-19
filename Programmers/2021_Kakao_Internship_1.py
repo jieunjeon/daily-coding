@@ -36,8 +36,8 @@ numbers = {
 
 def solution1(s):
     """
-    Time Complexity: O(n) where n is the length of the string
-    Space Complaxity: O(n) 
+    Time Complexity: O(n) where n is the length of the string.
+    Space Complaxity: O(1) to store a single string variable. 
     """
     answer = ''
     tmp = ''
@@ -54,7 +54,14 @@ def solution1(s):
 
 
 def solution2(s):
+    """
+    Time Complexity: O(n^2) where n is the length of the input string s. 
+        str.replace is nested in the for loop and its has O(n) Time Complexity.
+    Space Complexity: No additional space used.
+    """
     answer = s
     for key, value in numbers.items():
         answer = answer.replace(key, value)
     return int(answer)
+
+# TODO: try generator
