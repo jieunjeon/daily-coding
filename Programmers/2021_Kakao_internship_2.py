@@ -64,10 +64,15 @@ def bfs(row, col, place):
                 visited[nr][nc] += visited[row][col] + 1
                 if visited[nr][nc] <= 2:
                     return False # not social distanced
+            
     return True # social distanced
             
       
 def solution(places):
+    """
+    Time Complexity: O(25*n) where n is the number of places (rooms)
+    Space Complexity: O(n) for the dequeue
+    """
     answer = []
     #DFS
     
