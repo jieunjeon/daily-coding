@@ -60,6 +60,11 @@
 |  12919  |[서울에서 김서방 찾기](Programmers/12919_find_kim_from_seoul.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12919) | loop, range | 
 |  12922  |[박수박수박수박수](Programmers/12922_clap_clap.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12922) | loop, range | 
 |  42682  |[체육복](Programmers/42682_체육복.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42862) | loop, range | 
+|  12910  |[나누어 떨어지는 숫자 배열](Programmers/12910_division_list.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12910) | loop, range | 
+|  12916  |[문자열 내 p와 y의 개수](Programmers/12916_count_char.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12916) | loop, range | 
+|  12917  |[문자열 내림차순으로 배치하기](Programmers/12917_reverse_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12917) | loop, range | 
+|  12918  |[문자열 다루기 기본](Programmers/12918_basic_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12918) | loop, range | 
+|  12928  |[약수의 합](Programmers/12928_sum_of_divisor.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12928) | loop, range | 
 |  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
 |  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
 |  42840  |[2019 카카오 겨울 인턴십 2. 크레인 인형뽑기 게임](Programmers/2019_Kakao_internship.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64061) | Greedy |      
