@@ -13,7 +13,7 @@ def solution(board, moves):
     bucket = []
     
     for move in moves:
-        for r, c in enumerate(board):
+        for r, c in enumerate(board): # r: indedx of r, c: row itself
             if c[move-1] > 0: # use move as an index
                 bucket.append(c[move-1])
                 board[r][move-1] = 0

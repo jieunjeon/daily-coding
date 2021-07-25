@@ -1,6 +1,9 @@
 class Solution(object):
     def isValid(self, s):
         """
+        Time Complxity: O(n)
+        """
+        """
         :type s: str
         :rtype: bool
         """
