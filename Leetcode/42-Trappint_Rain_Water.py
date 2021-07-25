@@ -14,6 +14,13 @@ def maxWaterBruteForce(arr, n) :
     """
     Time Complexity: O(n^2): two nested loops.
     Space Complexity: O(1)
+
+    The idea is to traverse every array element and find the highest bars on the left and right sides. Take the smaller of two heights. The difference between the smaller height and height of the current element is the amount of water that can be stored in this array element.
+
+    1. Traverse the array from start to end.
+    2. For every element, traverse the array from start to that index and find the maximum height (a) and traverse the array from the current index to end, and find the maximum height (b).
+    3. The amount of water that will be stored in this column is min(a,b) – array[i], add this value to the total amount of water stored
+    4. Print the total amount of water stored.
     """
     res = 0
     # For every element of the array
@@ -36,6 +43,18 @@ def maxWaterStack(height):
     """
     Time Complexity: O(n): Traverse the arr 1 time and put heights into a stack
     Space Complexity: O(n): use a stack to keep track of the height of each sides bar.
+    
+    We can use a Stack to track the bars that are bounded by the longer left and right bars. This can be done using only one iteration using Stacks.
+
+    1. Loop through the indices of the bar array.
+    2. For each bar, we can do the following:
+    - While the Stack is not empty and the current bar has a height greater than the top bar of the stack,
+    - Store the index of the top bar in pop_height and pop it from the Stack.
+    - Find the distance between the left bar(current top) of the popped bar and the current bar.
+    - Find the minimum height between the top bar and the current bar.
+    - The maximum water that can be trapped in distance * min_height.
+    - The water trapped including the popped bar is (distance * min_height) – height[pop_height].
+    - Add that to the fans.
     """
     # Stores the indices of the bars
     stack = []
