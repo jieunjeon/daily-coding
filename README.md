@@ -65,7 +65,11 @@
 |  12916  |[문자열 내 p와 y의 개수](Programmers/12916_count_char.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12916) | loop, range | 
 |  12917  |[문자열 내림차순으로 배치하기](Programmers/12917_reverse_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12917) | loop, range | 
 |  12918  |[문자열 다루기 기본](Programmers/12918_basic_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12918) | loop, range | 
+|  12926  |[시저 암호](Programmers/12926_caesar_cipher.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12926) | loop, range | 
 |  12928  |[약수의 합](Programmers/12928_sum_of_divisor.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12928) | loop, range | 
+|  12930  |[이상한 문자 만들기](Programmers/12930_generate_strange_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12930) | loop, range | 
+|  12931  |[자릿수 더하기](Programmers/12931_sum_digits.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12931) | list, map | 
+|  12932  |[자연수 뒤집어 배열로 만들기](Programmers/12932_reverse_str_to_list.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12932) | list, reversed | 
 |  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
 |  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
 |  42840  |[2019 카카오 겨울 인턴십 2. 크레인 인형뽑기 게임](Programmers/2019_Kakao_internship.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64061) | Greedy |      
