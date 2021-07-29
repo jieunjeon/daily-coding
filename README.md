@@ -70,10 +70,12 @@
 |  12930  |[이상한 문자 만들기](Programmers/12930_generate_strange_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12930) | loop, range | 
 |  12931  |[자릿수 더하기](Programmers/12931_sum_digits.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12931) | list, map | 
 |  12932  |[자연수 뒤집어 배열로 만들기](Programmers/12932_reverse_str_to_list.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12932) | list, reversed | 
+|  42587  |[프린터](Programmers/42587_printer.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42587) | Priority Queue, Stack, heapq |   
+|  42746  |[가장 큰 수](Programmers/42746_the_biggest_num.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42746#) | Sort, lambda, functools.cmp_to_key |   
 |  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
 |  42840  |[2021 카카오 채용연계형 인턴십 2. 거리두기 확인하기](Programmers/2021_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81302?language=python3) | BFS, DFS |   
 |  42840  |[2019 카카오 겨울 인턴십 2. 크레인 인형뽑기 게임](Programmers/2019_Kakao_internship.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64061) | Greedy |      
-|  42840  |[타겟 넘버](Programmers/43165_target_num.ipynb) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43165#) | BFS, DFS, Graph |   
+|  43165  |[타겟 넘버](Programmers/43165_target_num.ipynb) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43165#) | BFS, DFS, Graph |   
    
 ## [CodeUp] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
