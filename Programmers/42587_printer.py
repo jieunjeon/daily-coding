@@ -30,6 +30,7 @@ import heapq
 def solution(priorities, location):
     """
     Time Complexity: O(n^2)
+    Space Complexity: O(nlogn) for heappush and heappop
     """
     # priority queue!
     
