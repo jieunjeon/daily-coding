@@ -17,6 +17,7 @@ from collections import deque
 
 def solution(prices):
     queue = deque()
+    queue = deque(prices)
     [queue.append(i) for i in prices]
 
     answer = []
@@ -34,4 +35,4 @@ def solution(prices):
         answer.append(res)
     return answer
 
-print(solution([1,2,3,2,2]))
+print(solution([1,1, 1, 1,1]))
