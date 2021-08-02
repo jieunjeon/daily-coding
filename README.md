@@ -70,6 +70,7 @@
 |  12930  |[이상한 문자 만들기](Programmers/12930_generate_strange_str.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12930) | loop, range | 
 |  12931  |[자릿수 더하기](Programmers/12931_sum_digits.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12931) | list, map | 
 |  12932  |[자연수 뒤집어 배열로 만들기](Programmers/12932_reverse_str_to_list.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/12932) | list, reversed | 
+|  42584  |[주식 가격](Programmers/42584_stock_price.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42584#) | Heap, Stack | 
 |  42587  |[프린터](Programmers/42587_printer.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42587) | Priority Queue, Stack, heapq |   
 |  42746  |[가장 큰 수](Programmers/42746_the_biggest_num.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42746#) | Sort, lambda, functools.cmp_to_key |   
 |  42840  |[2021 카카오 채용연계형 인턴십 1. 숫자 문자열과 영단어](Programmers/2021_Kakao_Internship_1.py) |Level 1| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/81301) | Brute Force |   
