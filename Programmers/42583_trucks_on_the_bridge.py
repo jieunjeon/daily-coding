@@ -25,17 +25,19 @@ def solution(bridge_length, weight, truck_weights):
     answer = 0
     bridge = []
     
-    for w in truck_weights:
+    for truck in truck_weights:
         while True:
             answer += 1
+            
             if len(bridge) == bridge_length:
                 bridge.pop()
                 
             
-            if sum(bridge) + w <= weight:
-                bridge.insert(0, w)
+            if sum(bridge) + truck <= weight:
+                bridge.insert(0, truck)
                 break
             else:
                 bridge.insert(0, 0)
+
     answer += bridge_length
     return answer
