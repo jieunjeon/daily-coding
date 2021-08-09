@@ -12,10 +12,9 @@ Leo가 본 카펫에서 갈색 격자의 수 brown, 노란색 격자의 수 yell
 """
 def solution(brown, yellow):
     """
-    red = (a-2) x (b-2)
+    yellow = (a-2) x (b-2)
     brown = ( a + b -2 ) x 2 
     """
-    answer = []
     a = 3
     while True:
         b = (yellow / (a - 2)) + 2
@@ -27,4 +26,3 @@ def solution(brown, yellow):
                 return [a, b]
         a += 1
         
-    return answer  
