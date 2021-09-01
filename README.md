@@ -81,7 +81,9 @@
 |  42840  |[2019 카카오 겨울 인턴십 2. 크레인 인형뽑기 게임](Programmers/2019_Kakao_internship.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/64061) | Greedy |      
 |  42842  |[카펫](Programmers/42842_carpet.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42842) | Greedy |    
 |  42888  |[2019 카카오 블라인드 채용 오픈채팅방](Programmers/42888_open_chatroom.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) | Data Structure |   
-|  43165  |[타겟 넘버](Programmers/43165_target_num.ipynb) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43165#) | BFS, DFS, Graph |   
+|  43165  |[타겟 넘버](Programmers/43165_target_num.ipynb) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/43165#) | BFS, DFS, Graph |  
+|  67257  |[2020 카카오 인턴십 #2 수식 최대화](Programmers/2020_Kakao_internship_2.py) |Level 2| [Programmers](https://programmers.co.kr/learn/courses/30/lessons/67257) | Brute Force Search |  
+
    
 ## [CodeUp] SOLVED
 |  #  | Title | Difficulty | Source | TAGS |
